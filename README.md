@@ -1,4 +1,3 @@
-# Customer-support-chat-Group-F-project-
 <!DOCTYPE html>
 <html>
 <head>
